@@ -1,0 +1,26 @@
+[
+	{
+		"title": "ASUS TUF Gaming AMD RX 6950 XT 16 Gb OC EDITION",
+		"price": 1181,
+		"thumbnail": "https://m.media-amazon.com/images/I/81Y+Zr51m4L._AC_SX522_.jpg",
+		"id": 1
+	},
+	{
+		"title": "Gigabyte AORUS RTX 3080 Ti Master 12 GB GDDR6X",
+		"price": 1564,
+		"thumbnail": "https://m.media-amazon.com/images/I/517lkQvi+pS._AC_SX522_.jpg",
+		"id": 2
+	},
+	{
+		"title": "MSI RX 6900 XT Gaming X Trio 16 Gb",
+		"price": 1343,
+		"thumbnail": "https://m.media-amazon.com/images/I/815a7kn-FDS._AC_SL1500_.jpg",
+		"id": 3
+	},
+	{
+		"title": "ASUS ROG Strix NVIDIA GeForce RTX 3090 OC Edition 24GB GDDR6X",
+		"price": 2289,
+		"thumbnail": "https://m.media-amazon.com/images/I/81q6ZBQFsHL._AC_SX522_.jpg",
+		"id": 4
+	}
+]
